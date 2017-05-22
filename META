@@ -1,0 +1,5 @@
+description = "Allows to change a bigarray's layout"
+version = "1"
+requires = "bigarray"
+archive(byte) = "bal.cma"
+archive(native) = "bal.cmxa"
